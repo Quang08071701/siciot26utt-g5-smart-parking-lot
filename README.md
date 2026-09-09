@@ -10,7 +10,7 @@ Bãi có **10 chỗ đỗ xe**, nhưng người lái xe không biết chính xá
 
 ## 2. Ai gặp vấn đề?
 
-### 👨‍💼 Người lái xe
+### Người lái xe
 
 * Khó biết bãi còn chỗ hay đã đầy.
 * Có thể phải đi vào bãi mới biết còn chỗ trống.
